@@ -1,0 +1,26 @@
+{
+  "data": [
+    {"year": 2001, "number_of_suicides": 2584, "crude_suicide_rate": 3.97},
+    {"year": 2002, "number_of_suicides": 2301, "crude_suicide_rate": 3.49},
+    {"year": 2003, "number_of_suicides": 2705, "crude_suicide_rate": 4.05},
+    {"year": 2004, "number_of_suicides": 2707, "crude_suicide_rate": 4.00},
+    {"year": 2005, "number_of_suicides": 2703, "crude_suicide_rate": 3.95},
+    {"year": 2006, "number_of_suicides": 2829, "crude_suicide_rate": 4.08},
+    {"year": 2007, "number_of_suicides": 2793, "crude_suicide_rate": 3.98},
+    {"year": 2008, "number_of_suicides": 2816, "crude_suicide_rate": 3.96},
+    {"year": 2009, "number_of_suicides": 2898, "crude_suicide_rate": 4.02},
+    {"year": 2010, "number_of_suicides": 2933, "crude_suicide_rate": 4.01},
+    {"year": 2011, "number_of_suicides": 2677, "crude_suicide_rate": 3.61},
+    {"year": 2012, "number_of_suicides": 3287, "crude_suicide_rate": 4.37},
+    {"year": 2013, "number_of_suicides": 3252, "crude_suicide_rate": 4.34},
+    {"year": 2014, "number_of_suicides": 3169, "crude_suicide_rate": 4.11},
+    {"year": 2015, "number_of_suicides": 3246, "crude_suicide_rate": 4.15},
+    {"year": 2016, "number_of_suicides": 3246, "crude_suicide_rate": 4.03},
+    {"year": 2017, "number_of_suicides": 3168, "crude_suicide_rate": 3.94},
+    {"year": 2018, "number_of_suicides": 3342, "crude_suicide_rate": 4.11},
+    {"year": 2019, "number_of_suicides": 3476, "crude_suicide_rate": 4.21},
+    {"year": 2020, "number_of_suicides": 3710, "crude_suicide_rate": 4.45},
+    {"year": 2021, "number_of_suicides": 4194, "crude_suicide_rate": 4.98},
+    {"year": 2022, "number_of_suicides": 4196, "crude_suicide_rate": 4.88}
+  ]
+}
