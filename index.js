@@ -127,7 +127,7 @@ yAxisSecondaryLine.setAttribute("y2", chartHeight + margin.top);
 yAxisSecondaryLine.setAttribute("stroke", "black");
 svg.appendChild(yAxisSecondaryLine);
 
-// Add "Number of Suicides" label to Y-axis
+// Add "Crude Suicide Rate" label to secondary Y-axis
 const yAxisSecondaryLabel = document.createElementNS("http://www.w3.org/2000/svg", "text");
 yAxisSecondaryLabel.setAttribute("x", -chartHeight / 2 - margin.top);
 yAxisSecondaryLabel.setAttribute("y", margin.left + chartWidth + 110);
